@@ -16,4 +16,6 @@ Here, the control input may cause some effect on the reactive bahaviors over som
 
 In functional format, the relationship among the inputs and behaviors will be represented as follows
 
+time seires of reactive behaviors = f_time_series_model(time series of control inputs)
+
 
