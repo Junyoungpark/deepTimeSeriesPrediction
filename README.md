@@ -1,4 +1,4 @@
-# deepTimeSeriesPrediction
+# deepTimeSeriesPrediction for Industrial plants
 
 Modern industrial plant is a complex of thousands of machineries. Understanding dynamic of the complex with physics laws and differential equations is almost impossible. For the purpose of understanding physical dynamics of industrial complex, instead of classical model based aprrocach, I have conducted data-driven modeling approach.
 
