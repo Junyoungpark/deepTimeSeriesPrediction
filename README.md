@@ -22,5 +22,7 @@ In functional format, the relationship among the inputs and behaviors will be re
 
 Various class of neural network are empirically shown nice performance for prediction task. However, the most pluasible choice of network structure will be RNN family. In this research, time seires are modelled with recurrent neural network and stacked fully connected layers.
 
+## Examples of Multiple-time series modeling
 
-
+1. Vibration prediction under stochastically varying input controls in petroleum plant
+2. Viscosity predcioton under stochastically varying input controls in chemical plnat
