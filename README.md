@@ -10,6 +10,7 @@ The plant has physical connections (e.g. in the format of pipelining). Therefore
 
 ### Class of problem
 
-I interprete industrial machine modeling as a multiple time-series regression problem. Multiple time seireis regression is a class of regression where input and output are time-series(s).
+I interprete industrial machine modeling as a multiple time-series regression problem. Multiple time seireis regression is a class of regression where input and output are time-series; input and output could be multiple time-series. Imagine a machine in the factory.
+An operator(or computer system) will give *control inputs* for the machine. As a result, the machine produce *reactive behaviors*
 
 
