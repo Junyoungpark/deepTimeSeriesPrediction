@@ -4,6 +4,12 @@ Modern industrial plant is a complex of thousands of machineries. Understanding 
 
 ## Problem solving directions
 
-The plant has physical connections (e.g. in the format of pipelining). Therefore, we can decompose the large comeplex into small subset of machines. Hence, we firstly model the single or small set of machines with small model. After we will combine the small models for recognize dynamic of the complex
+### General work-flow
+
+The plant has physical connections (e.g. in the format of pipelining). Therefore, we can decompose the large comeplex into small subset of machines. Hence, we firstly model the single or small set of machines with small model. After we will combine the small models for recognize dynamic of the complex.
+
+### Class of problem
+
+I interprete industrial machine modeling as a multiple time-series regression problem.
 
 
