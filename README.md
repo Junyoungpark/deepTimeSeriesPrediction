@@ -23,6 +23,6 @@ Various class of neural network are empirically shown nice performance for predi
 ## Examples of Multiple-time series modeling
 
 1. Displacement prediction under stochastically varying input controls in petroleum plant
-[link jupyter notebook](https://github.com/Junyoungpark/deepTimeSeriesPrediction/blob/master/displacement.ipynb)
+[link to jupyter notebook](https://github.com/Junyoungpark/deepTimeSeriesPrediction/blob/master/displacement.ipynb)
 2. Viscosity predcioton under stochastically varying input controls in chemical plnat
-[link jupyter notebook](https://github.com/Junyoungpark/deepTimeSeriesPrediction/blob/master/viscosity_prediction.ipynb)
+[link to jupyter notebook](https://github.com/Junyoungpark/deepTimeSeriesPrediction/blob/master/viscosity_prediction.ipynb)
