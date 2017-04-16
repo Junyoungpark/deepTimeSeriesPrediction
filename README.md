@@ -18,4 +18,4 @@ In functional format, the relationship among the inputs and behaviors will be re
 
 time seires of reactive behaviors = f_{time_series_model} time series of control inputs
 
-
+\\( x(t)=\frac{-b\pm \sqrt{{b}^{2}-4ac}}{2a} \\)
